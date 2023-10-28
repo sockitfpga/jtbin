@@ -33,8 +33,8 @@
     <region>World</region>
     <mraauthor>jotego</mraauthor>
     <rom index="0" zip="aliensj.zip|aliens.zip" md5="None" asm_md5="62f796a4fda1e5aa73abad65dc8b9656">
-        <!--     bit   0: sound config, 0=Aliens, 1=Super Contra
-                 bit 2:1: main config,  0=Aliens, 1=Super Contra, 2=Thunder Cross -->
+        <!--     bit   0 = ignored
+                 bits 2:1 = PCB config -> 0=Aliens, 1=Super Contra, 2=Thunder Cross -->
         <part>
             00 00 00 00 00 00 00 00
         </part>
@@ -114,6 +114,7 @@
             32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22
         </part>
     </rom>
+    <nvram index="2" size="4096"/>
     <rom index="1">
         <part>00</part>
     </rom>

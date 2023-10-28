@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2022. Please support this research
+              (c) Jose Tejada, 2023. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -24,7 +24,7 @@
     <name>Ghosts&apos;n Goblins (US)</name>
     <setname>gngt</setname>
     <rbf>jtgng</rbf>
-    <mameversion>0237</mameversion>
+    <mameversion>0251</mameversion>
     <year>1985</year>
     <manufacturer>Capcom (Taito America license)</manufacturer>
     <players>2</players>
@@ -32,16 +32,16 @@
     <rotation>horizontal</rotation>
     <region>World</region>
     <mraauthor>jotego</mraauthor>
-    <rom index="0" zip="gngt.zip|gng.zip" md5="None">
+    <rom index="0" zip="gngt.zip|gng.zip" md5="None" asm_md5="205229cb8941ae2ab651777018f91826">
         <!-- maincpu - starts at 0x0 - length 0x14000 (17 bits) -->
         <part name="mmt03d.8n" crc="fb040b42"/>
         <part name="mmt04d.10n" crc="652406f6"/>
         <part name="mmt05d.13n" crc="8f7cff61"/>
-        <!-- gfx1 - starts at 0x14000 - length 0x4000 (14 bits) -->
+        <!-- chars - starts at 0x14000 - length 0x4000 (14 bits) -->
         <part name="mm01.11e" crc="ecfccf07"/>
         <!-- audiocpu - starts at 0x18000 - length 0x8000 (15 bits) -->
         <part name="mm02.14h" crc="615f5b6f"/>
-        <!-- gfx2 - starts at 0x20000 - length 0x20000 (17 bits) -->
+        <!-- tiles - starts at 0x20000 - length 0x20000 (17 bits) -->
         <part name="mm09.3c" crc="20035bda"/>
         <part name="mm08.1c" crc="f12ba271"/>
         <part name="mm07.3b" crc="e525207d"/>
@@ -50,7 +50,7 @@
         <part name="mm10.1e" crc="7302529d"/>
         <part name="mm11.3e" crc="ddd56fa9"/>
         <part name="mm10.1e" crc="7302529d"/>
-        <!-- gfx3 - starts at 0x40000 - length 0x20000 (17 bits) -->
+        <!-- sprites - starts at 0x40000 - length 0x20000 (17 bits) -->
         <part name="mm17.4n" crc="93e50a8f"/>
         <part name="mm16.3n" crc="06d7e5ca"/>
         <part name="mm15.1n" crc="bc1fe02d"/>
@@ -76,7 +76,6 @@
         <dip name="Cabinet" bits="10" ids="Upright,Cocktail"/>
         <dip name="Bonus" bits="11,12" ids="30K and 80K Only,20K and 80K Only,30K 80K Every 80K,20K 70K Every 70K"/>
         <dip name="Difficulty" bits="13,14" ids="Very Difficult,Difficult,Easy,Normal"/>
-        <dip name="Unused" bits="15" ids="On,Off"/>
     </switches>
     <buttons names="Fire,Jump,Start,Coin,Core credits" default="Y,X,Start,Select,-" count="2"/>
 </misterromdescription>

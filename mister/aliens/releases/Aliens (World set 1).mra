@@ -33,8 +33,8 @@
     <region>World</region>
     <mraauthor>jotego</mraauthor>
     <rom index="0" zip="aliens.zip" md5="None" asm_md5="c29784def287afe117fd37d4a22bd15b">
-        <!--     bit   0: sound config, 0=Aliens, 1=Super Contra
-                 bit 2:1: main config,  0=Aliens, 1=Super Contra, 2=Thunder Cross -->
+        <!--     bit   0 = ignored
+                 bits 2:1 = PCB config -> 0=Aliens, 1=Super Contra, 2=Thunder Cross -->
         <part>
             00 00 00 00 00 00 00 00
         </part>
@@ -73,6 +73,7 @@
         <!-- proms - starts at 0x3C0000 - length 0x100 (8 bits) -->
         <part name="821a08.h14" crc="7da55800"/>
         <!-- Total 0x3C0100 bytes - 3840 kBytes -->
+        <patch offset="0x28072">AE AE AE</patch>
     </rom>
     <rom index="17" zip="jtbeta.zip" md5="None">
         <part name="beta.bin"/>
@@ -114,6 +115,7 @@
             32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22 53 88 4C 21 32 85 C8 14 22
         </part>
     </rom>
+    <nvram index="2" size="4096"/>
     <rom index="1">
         <part>00</part>
     </rom>
