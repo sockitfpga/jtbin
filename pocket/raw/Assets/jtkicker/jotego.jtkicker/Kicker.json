@@ -9,7 +9,8 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "kicker.rom"
+				"filename": "kicker.rom",
+				"md5": "12553f64903b980db89f7615c00cf622"
 			}
 		],
 		"memory_writes": [

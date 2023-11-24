@@ -8,12 +8,19 @@ aliensa.rom
 aliensj.rom
 aliensj2.rom
 aliensu.rom
+crazycop.rom
 crimfght.rom
-crimfhtj.rom
-crimfhtu.rom
+crimfghtj.rom
+crimfghtu.rom
+gbusters.rom
+gbustersa.rom
 scontra.rom
 scontraa.rom
 scontraj.rom
+thunderx.rom
+thunderxa.rom
+thunderxb.rom
+thunderxj.rom
 
 These files are generated using the mra tool in:
 https://github.com/sebdel/mra-tools-c/tree/master/release
