@@ -9,8 +9,7 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "simpsons4pe.rom",
-				"md5": "de282b1034c638caca0f640de715be1a"
+				"filename": "simpsons4pe.rom"
 			},
 			{
 				"id": 2,
@@ -19,7 +18,7 @@
 			{
 				"id": 17,
 				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
+				"md5": "71035230a15ff988e5823bc00a8efc50"
 			}
 		],
 		"memory_writes": [

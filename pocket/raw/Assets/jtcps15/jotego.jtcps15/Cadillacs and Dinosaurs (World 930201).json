@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "dino.rom",
-				"md5": "d4674a09b085008b8c149330db9b5bdc"
+				"filename": "dino.rom"
 			},
 			{
 				"id": 2,
 				"filename": "dino.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

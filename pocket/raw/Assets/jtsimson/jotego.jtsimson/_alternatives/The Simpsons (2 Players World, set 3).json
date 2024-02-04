@@ -9,8 +9,7 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "simpsons2p3.rom",
-				"md5": "d8430e53f3dc2ff2742b3330c3af5d07"
+				"filename": "simpsons2p3.rom"
 			},
 			{
 				"id": 2,
@@ -19,7 +18,7 @@
 			{
 				"id": 17,
 				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
+				"md5": "71035230a15ff988e5823bc00a8efc50"
 			}
 		],
 		"memory_writes": [

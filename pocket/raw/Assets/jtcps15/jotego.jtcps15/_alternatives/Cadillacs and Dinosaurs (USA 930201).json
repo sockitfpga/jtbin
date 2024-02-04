@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "dinou.rom",
-				"md5": "4ebb0eb94f9c729ea3539ceea6ac8ec2"
+				"filename": "dinou.rom"
 			},
 			{
 				"id": 2,
 				"filename": "dinou.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

@@ -9,13 +9,12 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "tmntuc.rom",
-				"md5": "975f5ff9045c7466e39d7bcc5bd6333a"
+				"filename": "tmntuc.rom"
 			},
 			{
 				"id": 17,
 				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
+				"md5": "71035230a15ff988e5823bc00a8efc50"
 			}
 		],
 		"memory_writes": [

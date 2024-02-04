@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "scontraj.rom",
-				"md5": "9d3146814b363a91629a0e2a0c87586e"
+				"filename": "scontraj.rom"
 			},
 			{
 				"id": 2,
 				"filename": "scontraj.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

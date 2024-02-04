@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2023. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -32,7 +32,14 @@
     <rotation>horizontal</rotation>
     <region>World</region>
     <mraauthor>jotego</mraauthor>
-    <rom index="0" zip="bublcave.zip|bublbobl.zip" md5="None" asm_md5="c8c976fad292859a37f6ce7c536f0a03">
+    <rom index="0" zip="bublcave.zip|bublbobl.zip" md5="None" asm_md5="a9fda186c2521d47ad57715e41febab9">
+        <!--  Header to identify the PCB type
+        Byte 0 = 0 for Bubble Bobble (MC6801 MCU)
+                 1 for Tokio (MC68705 MCU)
+                 3 for Tokio bootleg (no MCU but a fixed value fed into CPU)
+ -->
+        <part>
+            00 00 00 00 </part>
         <!-- maincpu - starts at 0x0 - length 0x28000 (18 bits) -->
         <part name="bublcave-06.51" crc="e8b9af5e"/>
         <part name="bublcave-05.52" crc="cfe14cb8"/>
@@ -44,11 +51,7 @@
         <!-- audiocpu - starts at 0x30000 - length 0x8000 (15 bits) -->
         <part name="a78-07.46" crc="4f9a26e8"/>
         <!-- JTFRAME_BA2_START -->
-        <!-- mcu - starts at 0x38000 - length 0x8000 (15 bits) -->
-        <part name="a78-01.17" crc="b1bfb53d"/>
-        <part repeat="0x7000"> FF</part>
-        <!-- JTFRAME_BA3_START -->
-        <!-- gfx1 - starts at 0x40000 - length 0x80000 (19 bits) -->
+        <!-- gfx1 - starts at 0x38000 - length 0x80000 (19 bits) -->
         <interleave output="16">
             <part name="bublcave-15.30" crc="c253c73a" map="01"/>
             <part name="bublcave-09.12" crc="b90b7eef" map="10"/>
@@ -74,6 +77,10 @@
             <part name="bublcave-14.17" crc="7e3a13bd" map="10"/>
         </interleave>
         <part repeat="0x20000"> FF</part>
+        <!-- MCU_START -->
+        <!-- mcu - starts at 0xB8000 - length 0x8000 (15 bits) -->
+        <part name="a78-01.17" crc="b1bfb53d"/>
+        <part repeat="0x7000"> FF</part>
         <!-- JTFRAME_PROM_START -->
         <!-- proms - starts at 0xC0000 - length 0x100 (8 bits) -->
         <part name="a71-25.41" crc="2d0f8545"/>
@@ -96,5 +103,5 @@
         <dip name="Language" ids="English,Japanese" bits="0"/>
         <dip name="Operation" ids="Test,Game" bits="2"/>
     </switches>
-    <buttons names="Jump,Shoot,Start,Coin,Core credits" default="Y,X,Start,Select,-" count="2"/>
+    <buttons names="Jump,Shoot,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

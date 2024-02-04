@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "dinoa.rom",
-				"md5": "beab07c1ce2192cac113f1e0ab6151b7"
+				"filename": "dinoa.rom"
 			},
 			{
 				"id": 2,
 				"filename": "dinoa.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

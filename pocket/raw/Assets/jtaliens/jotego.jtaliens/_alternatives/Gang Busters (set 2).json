@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "gbustersa.rom",
-				"md5": "a039c0483e4977911a9683590ae316bd"
+				"filename": "gbustersa.rom"
 			},
 			{
 				"id": 2,
 				"filename": "gbustersa.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

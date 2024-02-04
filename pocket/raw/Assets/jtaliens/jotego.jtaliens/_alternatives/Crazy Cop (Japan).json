@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "crazycop.rom",
-				"md5": "78ad83d877fe97d24df37bd449b4f4fc"
+				"filename": "crazycop.rom"
 			},
 			{
 				"id": 2,
 				"filename": "crazycop.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

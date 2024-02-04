@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "aliens2.rom",
-				"md5": "66642a81c5f21f1ae9c62348e8882e07"
+				"filename": "aliens2.rom"
 			},
 			{
 				"id": 2,
 				"filename": "aliens2.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

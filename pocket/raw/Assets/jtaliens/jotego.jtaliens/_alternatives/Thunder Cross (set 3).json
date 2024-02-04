@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "thunderxb.rom",
-				"md5": "3c74200b62e7eb71d91b1f09046fb50d"
+				"filename": "thunderxb.rom"
 			},
 			{
 				"id": 2,
 				"filename": "thunderxb.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

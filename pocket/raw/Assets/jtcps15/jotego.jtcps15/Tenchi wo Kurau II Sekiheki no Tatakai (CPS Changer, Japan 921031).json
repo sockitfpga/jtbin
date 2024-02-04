@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "wofch.rom",
-				"md5": "48b77e2085ef0341442f2629dda27346"
+				"filename": "wofch.rom"
 			},
 			{
 				"id": 2,
 				"filename": "wofch.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [

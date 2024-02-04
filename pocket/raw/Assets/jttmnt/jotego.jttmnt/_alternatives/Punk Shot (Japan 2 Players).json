@@ -9,13 +9,12 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "punkshotj.rom",
-				"md5": "6b1aa3acf549131e7992df9e4aa6d44b"
+				"filename": "punkshotj.rom"
 			},
 			{
 				"id": 17,
 				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
+				"md5": "71035230a15ff988e5823bc00a8efc50"
 			}
 		],
 		"memory_writes": [

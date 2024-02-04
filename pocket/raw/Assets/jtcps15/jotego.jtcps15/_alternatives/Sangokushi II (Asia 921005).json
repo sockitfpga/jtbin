@@ -9,17 +9,11 @@
 		"data_slots": [
 			{
 				"id": 1,
-				"filename": "wofa.rom",
-				"md5": "b1195cc3c6b7c878873d081f13c1ed6a"
+				"filename": "wofa.rom"
 			},
 			{
 				"id": 2,
 				"filename": "wofa.sav"
-			},
-			{
-				"id": 17,
-				"filename": "beta.bin",
-				"md5": "93d32ed43855da0a7fa1fbd0ceb8863e"
 			}
 		],
 		"memory_writes": [
