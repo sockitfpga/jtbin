@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Pang! 3: Kaitou Tachi no Karei na Gogo (Japan 950511)</name>
     <setname>pang3j</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>4</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="pang3j.zip|pang3.zip" md5="None" asm_md5="410670f7df493e707368d21994199c30">
         <part>
             00 04 80 04 80 05 FF FF
@@ -65,6 +64,7 @@
     </rom>
     <switches page_id="1" page_name="Switches" base="8" default="ff,ff,ff">
         <dip name="Freeze" ids="On,Off" bits="23"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="Shoot,-,-,-,-,-,Start,Coin,Core credits" default="A,Start,Select,-" count="1"/>
 </misterromdescription>

@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Splatter House (World, new version (SH3))</name>
     <setname>splatter</setname>
     <rbf>jtshouse</rbf>
@@ -31,10 +31,18 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="splatter.zip" md5="None" asm_md5="1e5918a0657787602d9c002385ffa46d">
-        <!-- Byte 0: protection type -->
+    <rom index="0" zip="splatter.zip" md5="None" asm_md5="20ac7bfbce64b1c4f07063a04d0da6dc">
+        <!-- Byte 0: protection type
+Byte 1: key ID
+Byte 2: addr for key ID
+Byte 3: addr for RNG
+Byte 4: addr for nibble swap data write
+Byte 5: addr for nibble swap read
+Byte 6: addr for lower nibble read
+Byte 7: addr for upper nibble read
+ -->
         <part>
-            03 B5 03 04 00 00 00 00
+            03 B5 03 04 FF FF FF FF
         </part>
         <!-- user1 - starts at 0x0 - length 0x3A0000 (22 bits) -->
         <part name="sh1_prg0.bin" crc="4e07e6d9"/>
@@ -94,7 +102,7 @@
     <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="71035230a15ff988e5823bc00a8efc50">
         <part name="beta.bin" crc="f1b63018"/>
     </rom>
-    <nvram index="2" size="63528"/>
+    <nvram index="2" size="63552"/>
     <rom index="1">
         <part>00</part>
     </rom>
@@ -106,6 +114,7 @@
         <dip name="Debug IRQ 1/2" bits="5" ids="Yes,No"/>
         <dip name="Debug IRQ 2/2" bits="6" ids="Yes,No"/>
         <dip name="Debug IRQ 2/2" bits="7" ids="Yes,No"/>
+        <dip name="*Sound fix" ids="On,Off" bits="8"/>
     </switches>
     <buttons names="Attack,Jump,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

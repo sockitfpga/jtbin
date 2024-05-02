@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Street Fighter II&apos;: Champion Edition (YYC, bootleg)</name>
     <setname>sf2yyc</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="sf2yyc.zip|sf2ce.zip" md5="None" asm_md5="4ee9d1ff54b4c83852b64d57ec1aca3b">
         <part>
             00 05 40 05 40 06 FF FF
@@ -91,6 +90,7 @@
         <dip name="Demo Sounds" bits="21" ids="On,Off"/>
         <dip name="Allow Continue" bits="22" ids="Yes,No"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="LP,MP,SP,LK,MK,HK,Start,Coin,Core credits" default="A,B,X,Y,L,R,Start,Select,-" count="6"/>
 </misterromdescription>

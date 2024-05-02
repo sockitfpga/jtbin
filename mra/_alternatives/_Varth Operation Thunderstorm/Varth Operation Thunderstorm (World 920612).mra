@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Varth: Operation Thunderstorm (World 920612)</name>
     <setname>varthr1</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>vertical (ccw)</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="varthr1.zip|varth.zip" md5="None" asm_md5="4535ba8f74f54c4ae7de56a9f9406e6e">
         <part>
             00 04 40 04 40 05 FF FF
@@ -90,6 +89,7 @@
         <dip name="Demo Sounds" bits="21" ids="On,Off"/>
         <dip name="Allow Continue" bits="22" ids="Yes,No"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="Shoot,Bomb,-,-,-,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

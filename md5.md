@@ -9,14 +9,14 @@
 | 1942b        | jt1942     | bc959a4c6e8ca06dd6739f4487e7bc3d | 77,ff        |
 | 1942h        | jt1942     | 79f055126ea6ffa9909e486c625088ba | 77,ff        |
 | 1942w        | jt1942     | ce2877f2ac8c9b098f198a97517b0be1 | 77,ff        |
-| 1943         | jt1943     | 5006722f516b6fd1709046a542d3dd71 | f8,ff        |
-| 1943j        | jt1943     | ed51564a2680da2172a4a3203a7d6768 | f8,ff        |
-| 1943ja       | jt1943     | 42fc270d829ccb930b734d9f76ce704b | f8,ff        |
-| 1943jah      | jt1943     | 98d75a7859c6ab18ce02e17eb04886b4 | f8,ff        |
-| 1943kai      | jt1943     | a22833b3bf0c0bc6c95c53147f17b48f | f8,ff        |
-| 1943mii      | jt1943     | e56b41c808ea01274b7245c5d89fdef4 | f8,ff        |
-| 1943u        | jt1943     | 9b5cfef91f91462265c977a365a453a6 | f8,ff        |
-| 1943ua       | jt1943     | ca46e4b63b7a4da585b535d479ef6499 | f8,ff        |
+| 1943         | jt1943     | e9aafe7771b6e82ef47a500356817db7 | f8,ff        |
+| 1943j        | jt1943     | ef6365414064aca4020fbcb7e0a729d8 | f8,ff        |
+| 1943ja       | jt1943     | 939497c69efdd406705fb11b9a81f4cf | f8,ff        |
+| 1943jah      | jt1943     | 20ef10bc1d8aa357e9c231544c894b8f | f8,ff        |
+| 1943kai      | jt1943     | dc5ee323b52c21dd3d7efffa85de97ad | f8,ff        |
+| 1943mii      | jt1943     | 320715f0f37e39a6689bafc00a2f3386 | f8,ff        |
+| 1943u        | jt1943     | 523a3bca144d71501cca1ad8d6dd07fc | f8,ff        |
+| 1943ua       | jt1943     | b30ec11bfb9999acf2b4294d8c5b3db7 | f8,ff        |
 | 1944         | jtcps2     | 57e1779f1b7ff9b65d631df05d5cebf0 |              |
 | 1944d        | jtcps2     | c4f07b373cba2052a9c5f9726e8e028d |              |
 | 1944j        | jtcps2     | 77892d05a2840ccc208f545d169ae415 |              |
@@ -108,9 +108,11 @@
 | bionicc2     | jtbiocom   | 890e141794e2b6f5acc859253a0ae010 | ff,df        |
 | bioniccbl    | jtbiocom   | f74b047fe61f14bf5b2536784e94b4f7 | ff,df        |
 | bioniccbl2   | jtbiocom   | 874332c74dca2f75d181068e18187bb6 | ff,df        |
-| blkdrgon     | jtbtiger   | 27b235d9b6c835f4cc1c1b04f66c0cc1 | ff,6f        |
-| blktiger     | jtbtiger   | 5d864c2ff5386bf87ecc66d99a29e06d | ff,6f        |
-| blktigera    | jtbtiger   | 9ae346b9d842ed19197fcc743cf672f0 | ff,6f        |
+| blastoff     | jtshouse   | f89c9d8a8fb593e5a34edfada81301a0 | ff,ff        |
+| blazer       | jtshouse   | 02382b743ebcc7dca172f5b0b5cf50e8 | ff,ff        |
+| blkdrgon     | jtbtiger   | b14ac15cf95a71b1c15ee75ad49f1a45 | ff,6f        |
+| blktiger     | jtbtiger   | 2d7440c40e52cb34ad47fbc0820bbcb6 | ff,6f        |
+| blktigera    | jtbtiger   | acadf2e0bc8d647911cb8ea0dfea6d00 | ff,6f        |
 | block        | jtpang     | ade60f22d41f074ea4ff215c16fa0971 |              |
 | blockj       | jtpang     | efce4cc299fe5a5339917bd839bede6e |              |
 | blockr1      | jtpang     | e09a193172ef3ee6478eaa3c1c199477 |              |
@@ -183,6 +185,7 @@
 | cybotsud     | jtcps2     | 1d24397adb133647b22766e9e6ca112e |              |
 | daimakai     | jtcps1     | 86838f032c65d3d4539aeb3e8ba90a2f | 7f,ff,ff     |
 | daimakair    | jtcps1     | 657537b03050f067686496586e9aee76 | 7f,ff,ff     |
+| dangseed     | jtshouse   | 0985e63d9b7827822334612eae5f94e7 | ff           |
 | ddragon      | jtdd       | 20fd26784491a8d35a4799cc4227b68a | ff,ff        |
 | ddragon2     | jtdd2      | ee5ff67deb739a89fc27b6fc0ca78e2b | ff,96        |
 | ddragon2b    | jtdd2      | e3726956c80d97b424f254c127e85b7c | ff,96        |
@@ -236,6 +239,9 @@
 | drtoppel     | jtkiwi     | 3c672dd2cd71cc489382ba09aa732b34 | fe,ff        |
 | drtoppelj    | jtkiwi     | 8b519a1d1fcd91748684962121300d1a | fe,ff        |
 | drtoppelu    | jtkiwi     | 65f40accaa9ec3b34296a31679ca898e | fe,ff        |
+| dspirit      | jtshouse   | 097c833e8e78033db06f27bf99ff8e62 | ff           |
+| dspirit1     | jtshouse   | dc47685e5ca11cd393856cbc2ff4bdcd | ff           |
+| dspirit2     | jtshouse   | 52ae1bd39837977eeabc99cf61cc9569 | ff           |
 | dstlk        | jtcps2     | 2a6ec00a2222924a0f3ad77c36833ebd |              |
 | dstlka       | jtcps2     | d6ffc506d718d8385ba1db05a51f3dd7 |              |
 | dstlkh       | jtcps2     | 2aea6349dc9bad74eae0223251f57915 |              |
@@ -261,12 +267,13 @@
 | eswatj1      | jts16b     | 92797fa5af53e07f842a3ef411f891fa | ff,fd        |
 | eswatu       | jts16b     | b5483c042484243a0b667901220e88ca | ff,fd        |
 | exctleag     | jts16b     | ed9bf39db556e7156a6f6bf7179ea557 | ff,fe        |
-| exedexes     | jtexed     | 4d4e52e7c8d9d82bdd32a196955d8f04 | df,ff        |
+| exedexes     | jtexed     | a31f20673d9249a66dfc00421bbeaa54 | df,ff        |
 | extrmatn     | jtkiwi     | c4668d4b655af1b443e44abf88936ec0 | ff,ff        |
 | extrmatnj    | jtkiwi     | 4665ad05da22c70496ce9fb211482f31 | ff,ff        |
 | extrmatnu    | jtkiwi     | 1652eb42cdcd36bdb3ad309c9a31aecf | ff,ff        |
 | extrmatnur   | jtkiwi     | b3459d8c8a81e86572465d91d6cce3a2 | ff,ff        |
 | f1dream      | jttora     | c2f66b62e2a60145566d4375733ee079 | ff,bf        |
+| faceoff      | jtshouse   | ebf55f96b05edd8d2921f03e87778e5d | ff,ff        |
 | fantzn2x     | jts16b     | ac119bf42d19e581a31ecbf3e60418fc | ff,ff        |
 | fantzn2xp    | jts16b     | 813dcb28e6554253ab2718870302c812 | ff,ff        |
 | fantzone     | jts16      | a4721e6639defe60c00a62ef7b5b5020 | ff,fc        |
@@ -306,6 +313,9 @@
 | fpoint1      | jts16b     | 104febb82ea083d44525f317992142d3 | ff,fd        |
 | fround       | jtfround   | 0824f8ea07f0f330628fa9373dc13021 | ff,5e,ff     |
 | froundl      | jtfround   | b4f7a1b2506094c98fddf820462f5653 | ff,5e,ff     |
+| galaga88     | jtshouse   | 7fa29a855ff4114154da4ffd8d19589f | ff           |
+| galaga88a    | jtshouse   | 2f3fc3c1173e0cebaf41a5672e2dc33b | ff           |
+| galaga88j    | jtshouse   | df7948f75dffb9d4034d3bbc266a80c5 | ff           |
 | gbusters     | jtaliens   | 10dbc0128069fa05df7b4ce997b53fd5 | ff,56,ff     |
 | gbustersa    | jtaliens   | a039c0483e4977911a9683590ae316bd | ff,56,ff     |
 | ghouls       | jtcps1     | 6ca0a8f1265eca0c99f28ac9e645e2eb | ff,fd,ff     |
@@ -318,13 +328,12 @@
 | gigawingj    | jtcps2     | c571194944d0f14c69a9a5e55187bb42 |              |
 | gigawingjd   | jtcps2     | 35a91a708bec512a9687bf1455af5e1f |              |
 | gmahou       | jtcps2     | fbf2c537cbdb9de26f34c884a39afc56 |              |
-| gng          | jtgng      | 41a39ea05a8bf15526ca05e0894c248f | df,fb        |
-| gnga         | jtgng      | ea92dcc98df0252769ba50d8bc1935a4 | df,fb        |
-| gngbl        | jtgng      | 1f9a21a942a3669a79cae7937119bf19 | df,fb        |
-| gngblita     | jtgng      | 3da9708518bfb1b90ba960b22f71e0c9 | df,fb        |
-| gngc         | jtgng      | 682b65e318744430685085daf95eb899 | df,fb        |
-| gngprot      | jtgng      | 451a54f00c2874e1cb902832e1df9232 | df,fb        |
-| gngt         | jtgng      | 205229cb8941ae2ab651777018f91826 | df,fb        |
+| gng          | jtgng      | 314bf8a2179fea0b42b1e675093d01b7 | df,fb        |
+| gnga         | jtgng      | de19abb643030aa57121d5f733b1055e | df,fb        |
+| gngblita     | jtgng      | edf6c8eafa81dd02b607387fbd889322 | df,fb        |
+| gngc         | jtgng      | 9a6ab3483f50ebbc0461838729b837da | df,fb        |
+| gngprot      | jtgng      | e3ab071e7609f552f09f2f3bc53fa3e3 | df,fb        |
+| gngt         | jtgng      | 713a7b3018709f387b8fdabfb92e8d43 | df,fb        |
 | goldnaxe     | jts16b     | ccc80682e6dc090585aa70f383665909 | ff,fd        |
 | goldnaxe1    | jts16b     | abd9d5b3d93655dd627ea565163825f0 | ff,fd        |
 | goldnaxe2    | jts16b     | 9b49d0be22ca087cbe54501e998a9348 | ff,fd        |
@@ -334,12 +343,12 @@
 | gryzor       | jtcontra   | 8a84bae46d2d2a4cdb7a2364f7239841 | ff,7a,ff     |
 | gryzor1      | jtcontra   | b5ff88f93a1cebec6fd192b8140763fe | ff,7a,ff     |
 | gulunpa      | jtcps1     | 2a6aba4ca3cd0cd81d9fb2494a706039 | ff,ff,df,ff  |
-| gunsmoke     | jtgunsmk   | a659c3df76fc4374a4af1ca2187faa8f | f7,ff        |
-| gunsmokeb    | jtgunsmk   | c2dbd27e0a05e6575d1ff83831051a73 | f7,ff        |
-| gunsmokeg    | jtgunsmk   | c26792ea61d7f2fd4f6b28463c536212 | f7,ff        |
-| gunsmokej    | jtgunsmk   | f06442c96d2b9b6115f45c30bb18cced | f7,ff        |
-| gunsmokeu    | jtgunsmk   | f8a2d3be6059d682867fd0137a57bd04 | f7,ff        |
-| gunsmokeuc   | jtgunsmk   | dc8ee9d839375d648795f74794bb70b6 | f7,ff        |
+| gunsmoke     | jtgunsmk   | d76ac703f14ac2fb1bca823f0205b9bc | f7,ff        |
+| gunsmokeb    | jtgunsmk   | c481890af1aca0095e6bc7eae10af4ea | f7,ff        |
+| gunsmokeg    | jtgunsmk   | c3c42b78fbbf6da8aba59ccc6b52aefb | f7,ff        |
+| gunsmokej    | jtgunsmk   | ece54e9f24d2e546cb0062f503d184ab | f7,ff        |
+| gunsmokeu    | jtgunsmk   | 030c5381e2e14eeac53111bf66742aea | f7,ff        |
+| gunsmokeuc   | jtgunsmk   | ecd2f603cf9d0520f66c98f81d93da5a | f7,ff        |
 | hbarrel      | jtninja    | c064f3fc2e628fa68953a5a81700539b | ff,bf        |
 | hbarrelu     | jtninja    | 2b1e251a9a99f04b47169625acb208ef | ff,bf        |
 | hcastle      | jtcastle   | fa57e3e98d64b6ec7ae38c38eec37dba | ff,53,ff     |
@@ -358,6 +367,7 @@
 | insectx      | jtkiwi     | 70716a1310f259feb93021b69248cfe8 | fe,ff        |
 | insectxbl    | jtkiwi     | 0f1fa4881ac2194d848bb02140bf8b32 | fe,ff        |
 | insectxj     | jtkiwi     | 382d7b3a550c7a5391cbc88e5f74033e | fe,ff        |
+| juju         | jttoki     | 38b73e94149bd174150e63f0811cb5a4 | df,ff        |
 | jyangoku     | jtcps2     | 7ae7b0471ea7dde0b0ff13962bfddcc8 |              |
 | kageki       | jtkiwi     | d2f330f88ad450df36e63f2de82bebc0 | ff,ff        |
 | kagekih      | jtkiwi     | 42102bebd90944cd3e66eda8de060bcb | ff,ff        |
@@ -392,15 +402,15 @@
 | labyrunrk    | jtlabrun   | 2e65ac5cc154346d24d55bbdb63fe371 | ff,5a,f7     |
 | lostwrld     | jtcps1     | 4f822f40f9abcec0592ace9f41079bf4 | ff,fc,ff     |
 | lostwrldo    | jtcps1     | d00971c0579013041fcfc1ad83ac0035 | ff,fc,ff     |
-| lwings       | jtsectnz   | 651efc4855d015293e02e45e6b59bc09 | ff,ff        |
-| lwings2      | jtsectnz   | ba6804d682090b0896ef14b7997aaeee | ff,ff        |
-| lwingsb      | jtsectnz   | 7499589dc889a8e8f49b87255a73958c | ff,ff        |
-| lwingsj      | jtsectnz   | 950dd727263854d144dcbe41af9d60ed | ff,ff        |
-| lwingsja     | jtsectnz   | 9e0923b69d3c9816f842ec40ce022dec | ff,ff        |
+| lwings       | jtsectnz   | 9c92094526664b4d2ad9b5b41d1b495f | ff,ff        |
+| lwings2      | jtsectnz   | d2f286876a761eb44bc263bdc6b56a47 | ff,ff        |
+| lwingsb      | jtsectnz   | 610e576e2f92beccf822ce37666d20d2 | ff,ff        |
+| lwingsj      | jtsectnz   | ee9098026fc4499c8979260ee1ebfcd4 | ff,ff        |
+| lwingsja     | jtsectnz   | e8c07ec5ddf9bda400884cdd6c9aa962 | ff,ff        |
 | mach9        | jt1942     | d470962fb542b92432b24e558f7d3374 | ff,7f        |
-| makaimur     | jtgng      | f80a619acf3e03db0b5c38e1559d9932 | df,fb        |
-| makaimurc    | jtgng      | 4986f3d2522f8461206db2bd3bc5bc6b | df,fb        |
-| makaimurg    | jtgng      | b2c45890c22b282f6a1e799cfdc4c700 | df,fb        |
+| makaimur     | jtgng      | 83aede53c1425d7453541f518b5484ba | df,fb        |
+| makaimurc    | jtgng      | e722885c7153e259df504972e610461d | df,fb        |
+| makaimurg    | jtgng      | 536ee46cc9c9b0b2247a584db082b234 | df,fb        |
 | mbomberj     | jtcps15    | 56c6bded6b8144d83b003ead2952ddd9 | ff           |
 | mbombrd      | jtcps15    | b2222a07181b228d155a47c93e3cb110 | ff           |
 | mbombrdj     | jtcps15    | 90fcbbb144969081ffa8a4c3a1e81c60 | ff           |
@@ -499,11 +509,18 @@
 | outruneh     | jtoutrun   | daf7666a4f8a42933a0605a646765ae3 | ff,f9        |
 | outruneha    | jtoutrun   | 0603751fbd5551ed1be0189e474978a9 | ff,f9        |
 | outrunra     | jtoutrun   | ec44432539dfa9b7897ac1d4be2c169a | ff,f9        |
+| pacmania     | jtshouse   | 6e9025aeeaa7f8403dbeeaa4435b72c8 | ff           |
+| pacmaniaj    | jtshouse   | eff08a4a986ab70ba560fea2a1c54fc1 | ff           |
+| pacmaniao    | jtshouse   | dd2aaa41cca27d88f81fcc6db2f24b38 | ff           |
 | pang         | jtpang     | c5e7ed559af41d80dc11cfd427b4daac |              |
 | pang3        | jtcps1     | e53b10d4f19c2deec4d94c28fcedf066 | ff,ff,ff     |
 | pang3b       | jtcps1     | 7bc4743339f322fe222befc1a06fd74d | ff,ff,ff     |
 | pang3j       | jtcps1     | 410670f7df493e707368d21994199c30 | ff,ff,ff     |
 | pang3r1      | jtcps1     | 9350d49c0a081371ce364bc62b153c7f | ff,ff,ff     |
+| parodius     | jtsimson   | 780fc966591b7cf66cadc1d580049b0d | ff,52,ff     |
+| parodiusa    | jtsimson   | 81c77d3000c49656cef677b1224bc6d7 | ff,52,ff     |
+| parodiuse    | jtsimson   | f2715277d32ad3f3678d4344c9fdc8ae | ff,52,ff     |
+| parodiusj    | jtsimson   | 17ae9144a8e0d8878766602745ba7440 | ff,52,ff     |
 | passsht      | jts16b     | 6c8d0964b2bab6718ef1ddd588286f9e | ff,fe        |
 | passsht16a   | jts16      | d05f1d8fcc42dc8c87bb6b4467e6adf5 | ff,fe        |
 | passshta     | jts16b     | 322e32482d647b21e2f971f8c3ec660d | ff,f0        |
@@ -512,6 +529,7 @@
 | pgear        | jtcps2     | 860523a37f3cac75f3133f1f71586c19 |              |
 | pgearr1      | jtcps2     | 0005502bf24103341c096a807ddfa0e6 |              |
 | pingpong     | jtpinpon   | 3c6eaf0db6cb96ab18e8c5ca63aed2a9 | ff,fa,ff     |
+| pistoldm     | jtshouse   | f2cbddfb4450b46563b02de50d227f2e | ff,ff        |
 | pnickj       | jtcps1     | 39d46d81dfc6c10c94b02cf812bfd817 | ff,fc,ff     |
 | pokonyan     | jtcps1     | 0c22b6a35a4c7dcf7ee3d42b04a1f1df | ff,fb,ff,ff  |
 | pompingw     | jtpang     | 6be48a4c0844f8c6737f13d6e239a358 |              |
@@ -525,10 +543,10 @@
 | punisherh    | jtcps15    | 68975f8d997bdef8ab75b7c9344fc53e | ff           |
 | punisherj    | jtcps15    | 69188d91acf77e22d0a0cd39f347e74e | ff           |
 | punisheru    | jtcps15    | a0fbdd47a572dc50488fa84e5ddd0c92 | ff           |
-| punkshot     | jttmnt     | 01c4c11af76256003b7597056b5be5e2 | ff,7b,ff     |
-| punkshot2    | jttmnt     | 41478b4df5797ff07fc417d4b5e0619c | ff,7f,ff     |
-| punkshot2e   | jttmnt     | 8d2b8dfc39d766cacab19301b16e9cc7 | ff,7f,ff     |
-| punkshotj    | jttmnt     | 6b1aa3acf549131e7992df9e4aa6d44b | ff,5b,ff     |
+| punkshot     | jttmnt     | 475065e60e7d68f58dd271b61287f6aa | ff,7b,ff     |
+| punkshot2    | jttmnt     | b6650061c4bb977e7700e1b302064c71 | ff,7f,ff     |
+| punkshot2e   | jttmnt     | b471b58178c34c316d654e6669929dc7 | ff,7f,ff     |
+| punkshotj    | jttmnt     | aa6a21f0418fbbd1b4845256937e2a21 | ff,5b,ff     |
 | pzloop2      | jtcps2     | 1e52a337b3145823c43122abad5ab2db |              |
 | pzloop2j     | jtcps2     | 2005f74ca24858fb5511c48a77c6ae5d |              |
 | pzloop2jd    | jtcps2     | 6545381800fad4f7278d119f319944c0 |              |
@@ -572,10 +590,10 @@
 | rockmanj     | jtcps1     | 6c5699d3d2215256f970a3e9d27a86cc | ff,fa,ff     |
 | rocnrope     | jtroc      | 3ea1ddb56be848aecc0b3b64f295ad3e | ff,5b,96     |
 | rocnropek    | jtroc      | 9a7b2a4292da9248e666abe317edf768 | ff,5b,96     |
-| rushcrsh     | jtrumble   | de5d5970dfe0f0c7ba898502c147213d | ff,73        |
+| rushcrsh     | jtrumble   | 4f09aed603e4590fd2b8cadd6a796edf | ff,73        |
 | ryukyu       | jts16b     | 8f2e0276190a2c18150cc7da4a25583f | ff,fa        |
 | ryukyua      | jts16b     | a588e0ceab5e1d557cc0188a38385750 | ff,fa        |
-| savgbees     | jtexed     | 0ef5c619ff89dc56a6bfeeecbeb3bbba | df,ff        |
+| savgbees     | jtexed     | a0bfb6be669be0073f0196983de61d06 | df,ff        |
 | sbasketb     | jtsbaskt   | d24bb7c8ca71011f65a76783a90fb296 | ff,68        |
 | sbaskete     | jtsbaskt   | 8033bc13da3e333d7bfc948a1289f329 | ff,68        |
 | sbasketg     | jtsbaskt   | d24bb7c8ca71011f65a76783a90fb296 | ff,68        |
@@ -589,8 +607,8 @@
 | sdib         | jts16b     | f7f5e7d5ca410726ecaa2af134da1913 | ff,fd        |
 | secretag     | jtslyspy   | 8eb03cffa519d64ac64dc3c84792d5ad | 7f,ff        |
 | secretagj    | jtslyspy   | 730e7a6151751257d98935cca45c9dd5 | 7f,ff        |
-| sectionz     | jtsectnz   | de77ec79f7b238bec57a5af46ada624b | ff,3f        |
-| sectionza    | jtsectnz   | d38a7bb9e9b4e665791e2857b2f2fe70 | ff,3f        |
+| sectionz     | jtsectnz   | 7e4f0376c128349dd41afd6db1c75432 | ff,3f        |
+| sectionza    | jtsectnz   | a5e7eb50e997ca464164a14778caf02d | ff,3f        |
 | sf           | jtsf       | 04af14d331248eca94dd9abb72678c4c | ff,df,ff,ff  |
 | sf2          | jtcps1     | 616854344835ba6e5d2b121a732fe007 | ff,fc,9f     |
 | sf2acc       | jtcps1     | 73b0113f74ede17f04a33f60503b62a4 | ff,fc,9f     |
@@ -742,12 +760,12 @@
 | spf2tu       | jtcps2     | e14f9c04be77eec8123f32304ec377ac |              |
 | spf2xj       | jtcps2     | 88c1d220a0693a1126adfb418089afe6 |              |
 | spf2xjd      | jtcps2     | 8da65e97a9927ed5339918540cc99f67 |              |
-| splatter     | jtshouse   | 1e5918a0657787602d9c002385ffa46d | ff           |
-| splatter2    | jtshouse   | 41e360fa9bcd4805ad031ec8b0881d67 | ff           |
-| splatterj    | jtshouse   | 6d6b7cde5517f7eee3b8b1d291e622ba | ff           |
-| srumbler     | jtrumble   | 69aeb3084a87601bc6623b92290cfc14 | ff,73        |
-| srumbler2    | jtrumble   | d98cf9591f43371125ff421af37eca00 | ff,73        |
-| srumbler3    | jtrumble   | ac03c1aa0afba6c0be22ba7a2db1cdec | ff,73        |
+| splatter     | jtshouse   | 20ac7bfbce64b1c4f07063a04d0da6dc | ff           |
+| splatter2    | jtshouse   | 39db02b9572c7eb0b52a07e51d4b6e64 | ff           |
+| splatterj    | jtshouse   | 7fec6c333ace128a57eed1a36f85a6de | ff           |
+| srumbler     | jtrumble   | ca8dfc45b6c2bc43818e26c2a73614de | ff,73        |
+| srumbler2    | jtrumble   | 690ff40aeb3164bc29045fa8dd3eda6b | ff,73        |
+| srumbler3    | jtrumble   | 107617e23ae1fe6d8b581b64c267adad | ff,73        |
 | ssf2         | jtcps2     | ecf1e3a355748994730378115c4b33b2 |              |
 | ssf2a        | jtcps2     | afe74765324f5583550c6e3a23b79dc8 |              |
 | ssf2ar1      | jtcps2     | 6665fe4f45c22474958df3f7986c99f1 |              |
@@ -782,6 +800,7 @@
 | striderua    | jtcps1     | 1313f2c0949e67b8c4dab96dd71856a4 | ff,fd,ff     |
 | strideruc    | jtcps1     | d1d52503d329441ea51b411e6009f4e2 | ff,fd,ff     |
 | suprleag     | jts16b     | 60eac3924d5353c0ba872b74d0bb8242 | ff,fe        |
+| tankfrce     | jtshouse   | f8abd206a5b82f1c759f302ba16c6cd7 | ff,ff        |
 | tetris       | jts16      | a66fee2c280d67b2820db8dda291719e | ff,fd        |
 | tetris1      | jts16b     | e9cca35f63ff528a07057065e30c5d0d | ff,fd        |
 | tetris2      | jts16b     | 91eeb6e782d0812f8c9fa0ea9e993ff9 | ff,fd        |
@@ -808,15 +827,21 @@
 | tmntua       | jttmnt     | a8b52cb18e4af6a8604d055151504bb3 | ff,5e,ff     |
 | tmntub       | jttmnt     | 0e1374cd30f8f3f4c7a8dcef9607983b | ff,5e,ff     |
 | tmntuc       | jttmnt     | 975f5ff9045c7466e39d7bcc5bd6333a | ff,5e,ff     |
+| tnzs         | jtkiwi     | f9fd2053f82243e69097903846fec994 | fe,ff        |
+| tnzsj        | jtkiwi     | 96833c6f69326c2b9018b7b0bdfe046b | fe,ff        |
 | tnzsjo       | jtkiwi     | 5cc97d612c2674fb9162c8d02b4b1deb | fe,ff        |
 | tnzso        | jtkiwi     | 8fbb9492abb24202226ce26baca2bf77 | fe,ff        |
 | tnzsoa       | jtkiwi     | 6ad3765d3584a88f4fc53661683f14f4 | fe,ff        |
 | tnzsop       | jtkiwi     | 8f0223d475a84ce98ccf5c8a0a3d0905 | fe,ff        |
 | tnzsuo       | jtkiwi     | 8150dddcf9f52643a5d3c9d032e526ff | fe,ff        |
+| toki         | jttoki     | ae111807dd42167b8805493a946efe92 | df,ff        |
+| tokia        | jttoki     | 5ca8ff7a6a6699352a25677ab50fc72f | df,ff        |
 | tokio        | jtbubl     | a16d11118acc27f5802e5a292a29a712 | ff,ff        |
 | tokiob       | jtbubl     | fd37a47f72184caf3c60c6187db54788 | ff,ff        |
 | tokioo       | jtbubl     | 57a5c7a2954cbf851962aa960878433a | ff,ff        |
 | tokiou       | jtbubl     | 53510e372905aaa68e23552e2885d324 | ff,ff        |
+| tokiu        | jttoki     | 7236481fa5d32948bd86ec577685ff1e | df,ff        |
+| tokiua       | jttoki     | 47c22e77be894d51060c2ed4f3ed0e43 | df,ff        |
 | topsecrt     | jtbiocom   | 685ea63491f6d89e485d0d5619c4bd23 | ff,df        |
 | topsecrt2    | jtbiocom   | a0e127acf4aa7292fdc1c37f4bd721e6 | ff,df        |
 | toramich     | jttora     | 32cb4c4bd6913f32104362e761847490 | ff,ff        |
@@ -830,11 +855,10 @@
 | trackfld     | jttrack    | 97597056bec9459cc0c954a254a19640 | ff,59        |
 | trackfldc    | jttrack    | b680ca50d26b1cade2c2bddbc98540ac | ff,59        |
 | tricktrp     | jtlabrun   | 3e5dbbefbd2de31e43420016a8907428 | ff,5a,f7     |
-| trojan       | jttrojan   | cfa02a1cfc00b83348b980971d34e873 | fc,ff        |
-| trojana      | jttrojan   | a33d14d80f13cec111a38f7443570c3b | fc,ff        |
-| trojanj      | jttrojan   | df7d169ef609f4991cecf6f08fce2f98 | fc,ff        |
-| trojanlt     | jttrojan   | 277da86c45a03173c3c9c9d063ed6b36 | fc,ff        |
-| trojanr      | jttrojan   | c510540e4e74f9513a9916728d9e159d | fc,ff        |
+| trojan       | jttrojan   | 98cb05511d62d37c292c6c9b08d2c8e3 | fc,ff        |
+| trojana      | jttrojan   | 9fefd1b0b9092e019903de297747fc6c | fc,ff        |
+| trojanj      | jttrojan   | c99b24635bc080b30861f06d9cba45b6 | fc,ff        |
+| trojanr      | jttrojan   | debe9ebb44369e69a203dd0eda4121e1 | fc,ff        |
 | tturfu       | jts16b     | 56ff0f22b78e17f55709141a47654c27 | ff,2c        |
 | uecology     | jtcps2     | 6b282bbb2210a2cd48a15b7370a24986 | ff,ff        |
 | unsquad      | jtcps1     | d0a58d408b392b4f2051a9a7db890bda | ff,fc,9f     |
@@ -846,6 +870,17 @@
 | varthjr      | jtcps1     | 24afdc70340b3f5a63387c9c34d6f91c | ff,f4,bf     |
 | varthr1      | jtcps1     | 4535ba8f74f54c4ae7de56a9f9406e6e | ff,f4,bf     |
 | varthu       | jtcps1     | fef9e2c5962208623efe2249e813fdbc | ff,f4,bf     |
+| vendetta     | jtsimson   | 359653a2b2e7dd54a195352bb8f2de87 |              |
+| vendetta2pd  | jtsimson   | 20a1f79c3bdaf76f50dd5a156ef739d9 |              |
+| vendetta2peba | jtsimson   | e5f3156ae7b910aa43f98be0f10e7cac |              |
+| vendetta2pp  | jtsimson   | b0ba0ea2123b99c86a68ca7d5a7ae1f8 |              |
+| vendetta2pu  | jtsimson   | c02f50b067dcc205530ce22fb0aa4165 |              |
+| vendetta2pun | jtsimson   | ac37777a8ec9352a1a82c1a3e3850957 |              |
+| vendetta2pw  | jtsimson   | efcdab9beee0a62b01e3444e0780b58f |              |
+| vendettan    | jtsimson   | 81c619369eb62011b4dc65504d3272ba |              |
+| vendettar    | jtsimson   | 2f7f9b61fca5f7368ad27f7ea4998290 |              |
+| vendettaun   | jtsimson   | 504d2bf2c991abb97b9fe06943c99142 |              |
+| vendettaz    | jtsimson   | d0dd96eca9bfdd51e54adbb8299202e4 |              |
 | vhunt2       | jtcps2     | 7788ced3931d1ba923ab5e27b2c329bc |              |
 | vhunt2d      | jtcps2     | 552c047565156c651fc6eea8f9e0ec96 |              |
 | vhunt2r1     | jtcps2     | e7bdeaf02253ad52ed36dbbc7d799698 |              |
@@ -882,6 +917,7 @@
 | willowj      | jtcps1     | 527ad7df6f60a5129f1669522532c45e | 7f,ff,ff     |
 | willowu      | jtcps1     | b692e6ca608e1704249ec551f4d1242d | ff,ff,fa     |
 | willowuo     | jtcps1     | f44bb34ad35e743c894a070f2ecbc3f3 | ff,ff,fa     |
+| wldcourt     | jtshouse   | 8510943f973576fe15b14eef98c91317 | ff           |
 | wndrplnt     | jtkarnov   | e81ae47504db6a4446676dfb39dfbab0 | 7f,ff        |
 | wof          | jtcps15    | 0e41c840a0f9d1c443c0e388c73dc11c | ff           |
 | wofa         | jtcps15    | 62ace165f74e3b5e07cd788edea93b67 | ff           |
@@ -893,6 +929,9 @@
 | wrestwar     | jts16b     | 2b5f95a8e696e54ed21149606b6ae9b0 | ff,fd        |
 | wrestwar1    | jts16b     | f6e802ebc98aa533c4ee13d9786b3860 | ff,fd        |
 | wrestwar2    | jts16b     | e1b30e2d9895d7ece41c7e0ecd8bde27 | ff,fd        |
+| ws           | jtshouse   | 10155e5117703452130929b096d83152 | ff,ff        |
+| ws89         | jtshouse   | dda962f51ad95ca7a7f705257e2855b6 | ff           |
+| ws90         | jtshouse   | ac7d6edb05765bceb3af99c67f2fd75a | ff           |
 | xmcota       | jtcps2     | 1525d27aa5956ab9307eca7a669be2b2 |              |
 | xmcotaa      | jtcps2     | 407571cb28ffec3202edfb31e2a0dfc0 |              |
 | xmcotaar1    | jtcps2     | 4df40bac82e21b57c37b0413ae506c3a |              |

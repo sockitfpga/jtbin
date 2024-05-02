@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Forgotten Worlds (Japan) (English prototype)</name>
     <setname>forgottnj</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="forgottnj.zip|forgottn.zip" md5="None" asm_md5="aedc7e205d5d3ab8e30585f6eb9a32b2">
         <part>
             00 04 40 04 40 05 FF FF
@@ -86,6 +85,7 @@
         <!-- DSWC -->
         <dip name="Slow Motion" bits="16" ids="On,Off"/>
         <dip name="Slowest Motion" bits="17" ids="On,Off"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="Shoot,Rotate left,Rotate right,-,-,-,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
 </misterromdescription>

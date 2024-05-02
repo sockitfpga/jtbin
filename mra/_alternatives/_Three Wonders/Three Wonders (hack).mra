@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Three Wonders (hack)</name>
     <setname>3wondersh</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="3wondersh.zip|3wonders.zip" md5="None" asm_md5="9e78eb9c9944cc9ea26c5a83d4980c96">
         <part>
             00 04 40 04 40 05 FF FF
@@ -106,6 +105,7 @@
         <dip name="Demo Sounds" bits="21" ids="On,Off"/>
         <dip name="Allow Continue" bits="22" ids="Yes,No"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="Attack/Shot/P.Block,Jump/T.Shot/P.Block,-,-,-,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

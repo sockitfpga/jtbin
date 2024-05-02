@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>The NewZealand Story (US, old version) (P0-041A PCB)</name>
     <setname>tnzsuo</setname>
     <rbf>jtkiwi</rbf>
@@ -31,11 +31,10 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="tnzsuo.zip|tnzs.zip" md5="None" asm_md5="8150dddcf9f52643a5d3c9d032e526ff">
         <!-- bit 0 = MCU
              bit 1 = color PROM
-             bit 2 = Kabuzi Z (specific sound features)
+             bit 2 = Kabuki Z (specific sound features)
              bit 3 = Kageki   (specific sound features)
              bit 4 = banked RAM
              bit 5 = coin XOR
@@ -44,7 +43,8 @@
              Byte 1:
              bit 0 = service XOR
              bit 1 = button aid
-             bit 2 = 3 MHz for FM module                  -->
+             bit 2 = 3 MHz for FM module
+             bit 3 = Kabuki Z with different memory map   -->
         <part>
             B1 04 00 00 </part>
         <!-- maincpu - starts at 0x0 - length 0x20000 (17 bits) -->

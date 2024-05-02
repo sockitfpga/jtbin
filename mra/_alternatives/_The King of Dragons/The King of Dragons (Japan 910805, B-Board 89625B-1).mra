@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>The King of Dragons (Japan 910805, B-Board 89625B-1)</name>
     <setname>kodja</setname>
     <rbf>jtcps1</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>World</region>
-    <mraauthor>jotego</mraauthor>
     <rom index="0" zip="kodja.zip|kod.zip" md5="None" asm_md5="2010f2e8f9467b2af86ecea9bf052900">
         <part>
             00 04 40 04 40 05 FF FF
@@ -125,6 +124,7 @@
         <dip name="Demo Sounds" bits="21" ids="On,Off"/>
         <dip name="Allow Continue" bits="22" ids="Yes,No"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
+        <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="Slay,Jump,-,-,-,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

@@ -20,7 +20,7 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" source="https://github.com/jotego" twitter="@topapate"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Wonder Boy III - Monster Lair (set 2, Japan, System 16B) (FD1094 317-0085)</name>
     <setname>wb32</setname>
     <rbf>jts16b</rbf>
@@ -31,7 +31,6 @@
     <joystick>8</joystick>
     <rotation>horizontal</rotation>
     <region>Japan</region>
-    <mraauthor>jotego,atrac17</mraauthor>
     <rom index="0" zip="wb32.zip|wb3.zip" md5="None" asm_md5="bf3916c9bf199b8006f8dba5e3272f86">
         <part>
             00 00 00 00 00 00 00 00
